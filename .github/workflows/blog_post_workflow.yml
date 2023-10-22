@@ -17,4 +17,9 @@ jobs:
       - name: Pull posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
+          commit_message: "Update README with the latest blog posts"
+          committer_email: womanonrails@users.noreply.github.com
+          committer_username: womanonrails
           feed_list: "https://womanonrails.com/feed.xml"
+          max_post_count: 5
+          skip_commit: true
