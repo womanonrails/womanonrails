@@ -22,4 +22,4 @@ jobs:
           committer_username: womanonrails
           feed_list: "https://womanonrails.com/feed.xml"
           max_post_count: 5
-          skip_commit: true
+          skip_commit: false
