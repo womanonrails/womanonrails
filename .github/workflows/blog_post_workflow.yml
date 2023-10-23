@@ -19,7 +19,7 @@ jobs:
         with:
           commit_message: "Update README with the latest blog posts"
           committer_email: womanonrails@users.noreply.github.com
-          committer_username: womanonrails
+          committer_username: Agnieszka Malaszkiewicz
           feed_list: "https://womanonrails.com/feed.xml"
           max_post_count: 5
           skip_commit: false
