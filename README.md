@@ -76,10 +76,10 @@ Don't hesitate to contact me.
 
 ## Blog posts 📄
 <!-- BLOG-POST-LIST:START -->
+- [Testing with Rails Event Store - Practical Tips and Custom Solutions](https://womanonrails.com/res-testing)
 - [Smart adapters for RailsEventStore](https://womanonrails.com/smart-adapters-for-res)
 - [First Event in RailsEventStore](https://womanonrails.com/first-event-in-res)
 - [Rails Default Scope Overview](https://womanonrails.com/default-scope)
 - [What’s the difference between to_a and to_ary in Ruby?](https://womanonrails.com/difference-between-to-a-and-to-ary-methods)
-- [Things you didn’t know about Ruby](https://womanonrails.com/things-you-dont-know-about-ruby)
 <!-- BLOG-POST-LIST:END -->
 
